@@ -30,7 +30,11 @@ This app is a testament to my ability to solve real-world problems with code and
 A big shoutout to the Flutter community and online resources that helped me bring this project to life!
 
 🔗 GitHub Repository: Caesar Cipher App
-📥 Download APK: Click Here to Download APK
+
+📥 Download APK:
+You can download the APK file to test the app on your Android device:
+[Download APK](https://github.com/Rafia-Syed/Caesar-Cipher/raw/main/app-release.apk)
+
 (Feel free to explore the code, test the app, and provide feedback!)
 
 🌟 What’s Next?
